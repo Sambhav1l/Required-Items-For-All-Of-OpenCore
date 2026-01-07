@@ -1,0 +1,5 @@
+RUFUS- for the Rufus 4.11p for windows file
+OCAT- ic005k on GitHub
+OpenCore Simplify- lzhoang2801 on Github
+OpenCore 1.0.6-release- acidanthera on Github
+USBToolBox- dhinakg on Github
